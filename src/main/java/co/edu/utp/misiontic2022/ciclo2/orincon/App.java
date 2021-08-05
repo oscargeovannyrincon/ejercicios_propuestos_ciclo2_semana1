@@ -6,7 +6,7 @@ package co.edu.utp.misiontic2022.ciclo2.orincon;
  */
 public class App {
     public static void main(String[] args) {
-        String nombre="Oscar";
+        String nombre="Oscar Rincon";
         System.out.println(saludo(nombre));
     }
      
